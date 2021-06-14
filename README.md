@@ -8,10 +8,10 @@
 
 
 - Nesse formulário deve permitir:
-  *** Listar todos clientes
-  *** Incluir cliente
-  *** Alterar cliente
-  *** Deletar cliente
+  -  Listar todos clientes
+  -  Incluir cliente
+  -  Alterar cliente
+  -  Deletar cliente
 
 - No campo CEP: Utilizar a API Rest https://viacep.com.br/ para preencher automaticamente os demais campos que correspondem ao endereço.
 - Os campos que receberem os valores automaticamente devem ser bloqueados para edição.
