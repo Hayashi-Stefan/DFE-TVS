@@ -1,4 +1,4 @@
-### TOTVS - Desafio Front-End - JUN/2021 🚀️
+### TOTVS - Desafio Front-End - JUN/2021
 
 ### Sobre o Projeto
 - Criar uma Single Page Application.
